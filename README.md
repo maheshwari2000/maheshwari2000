@@ -2,7 +2,7 @@
 
 ### **Data Scientist | Generative AI/LLM Engineer | MLOps Specialist**
 
-I am a Data Nerd and recent graduate with my Master's in Data Science from the University of Maryland-College Park (December 2025). My expertise lies in driving high-impact solutions across Machine Learning, Deep Learning, and advanced Generative AI architectures. My professional focus is on transitioning cutting-edge models into production-grade systems that deliver quantifiable business value.
+I am a Data Nerd with 3+ years of experience and Master's in Data Science from the University of Maryland-College Park. My expertise lies in driving high-impact solutions across Machine Learning, Deep Learning, and advanced Generative AI architectures. My professional focus is on transitioning cutting-edge models into production-grade systems that deliver quantifiable business value.
 
 ---
 
